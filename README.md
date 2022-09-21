@@ -8,7 +8,7 @@
 ### (your step 2)
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area)
+(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
 ## Challenges 
 (discuss challenges you faced in the project)
