@@ -1,17 +1,18 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+My goal is to create a regression model comparing bike stations around poi's.
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Gather all data, put data in the right place
+### Make sure the data is in usable condition
+### Proceed with the regression
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+Yelp overall seemed to be a better place to get info from. The coverage was far better than foursquare. 
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Many challenges every step of the way, from simple api calling to the actual model itself. 
 
 ## Future Goals
-(what would you do if you had more time?)
+If i had more time, i would absolutley make sure the data was in better shape before running a regression.
