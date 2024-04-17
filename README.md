@@ -16,3 +16,4 @@ Many challenges every step of the way, from simple api calling to the actual mod
 
 ## Future Goals
 If i had more time, i would absolutley make sure the data was in better shape before running a regression.
+# Final-Project-Statistical-Modelling-with-Python
